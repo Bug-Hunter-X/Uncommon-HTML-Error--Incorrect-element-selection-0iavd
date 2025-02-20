@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML and Javascript:  incorrectly selecting an element with an ID containing a hyphen using document.getElementById(). The bug.html file contains the erroneous code, while bugSolution.html provides the correct solution.
